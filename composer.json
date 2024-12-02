@@ -1,0 +1,15 @@
+{
+    "name": "oliverearl/advent-of-code-2024",
+    "description": "Advent of Code 2024 entries",
+    "type": "project",
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Oliver Earl",
+            "email": "oliver@oliverearl.co.uk"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    }
+}
